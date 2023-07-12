@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RamachandraBharadwaj
-- 👀 I’m interested in Game design,app design,Lua,Python and also low levl language features 
+- 👀 I’m interested in Game design,app design,Lua,Python and also low level languages
 - 🌱 I’m currently learning Python,lua and Rust
 - 💞️ I’m looking to collaborate on Game projects or any web related projects also
 - 📫 How to reach me @r_bharadwaj_25 on instagram
