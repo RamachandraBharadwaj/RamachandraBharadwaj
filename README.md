@@ -1,5 +1,5 @@
 <!-- Header Image -->
-<h1 align="center">Hey there, I'm Ramachandra Bharadwaj 👋</h1>
+<h1 align="center">Hey there, I'm Ramachandra Bhardwaj 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open+Source+Contributor;ML+%2F+Security+Enthusiast;Always+learning+new+things!">
