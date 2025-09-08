@@ -102,13 +102,13 @@
 <details>
 <summary>📊 Click to view advanced metrics</summary>
 
-<img src="https://raw.githubusercontent.com/RamachandraBharadwaj/RamachandraBhardwaj/main/github-metrics.svg" />
+<img src="https://raw.githubusercontent.com/RamachandraBhardwaj/RamachandraBhardwaj/main/github-metrics.svg" />
 
 </details>
 
 ---
 
 <!---
-RamachandraBharadwaj/RamachandraBharadwaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+RamachandraBhardwaj/RamachandraBhardwaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
