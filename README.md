@@ -15,12 +15,12 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/RamachandraBharadwaj"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/ramachandra-bharadwaj/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/RamachandraBhardwaj"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ramachandra-bhardwaj/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/bharru_25/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@RamachandraBharadwaj"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/ChR_Bharadwaj/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="https://www.kaggle.com/RamachandraBharadwaj"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@RamachandraBhardwaj"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/ChR_Bhardwaj/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://www.kaggle.com/RamachandraBhardwaj"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
   <a href="https://join.slack.com/t/yourslackworkspace/shared_invite/..."><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/></a>
   <a href="https://discord.com/users/785583398885523477"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
@@ -49,8 +49,8 @@
 ## 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RamachandraBharadwaj&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamachandraBharadwaj&layout=compact&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RamachandraBhardwaj&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamachandraBhardwaj&layout=compact&theme=radical" height="165" />
 </p>
 
 ---
@@ -58,7 +58,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RamachandraBharadwaj&theme=radical&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RamachandraBhardwaj&theme=radical&hide_border=false" />
 </p>
 
 ---
@@ -67,7 +67,7 @@
 ## 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RamachandraBharadwaj&theme=rogue&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RamachandraBhardwaj&theme=rogue&area=true&hide_border=true" />
 </p>
 
 
@@ -77,7 +77,7 @@
 ## 🏆 GitHub Profile Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RamachandraBharadwaj&theme=algolia&no-frame=true&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RamachandraBhardwaj&theme=algolia&no-frame=true&column=7" />
 </p>
 
 <p align="center">
@@ -86,8 +86,8 @@
 
 ## 📌 Featured Projects
 
-- 📊 [CySentry](https://github.com/RamachandraBharadwaj/CySentry-a-ML-powered-CyberSecurity-app): PE files amlware classifier and Network analyzer.
-- ⚙️ [Gen AI Remote Sensing ](https://github.com/RamachandraBharadwaj/GEN-AI-remote-sensing): Auto-generates pentest reports from tool outputs.
+- 📊 [CySentry](https://github.com/RamachandraBhardwaj/CySentry-a-ML-powered-CyberSecurity-app): PE files amlware classifier and Network analyzer.
+- ⚙️ [Gen AI Remote Sensing ](https://github.com/RamachandraBhardwaj/GEN-AI-remote-sensing): Auto-generates pentest reports from tool outputs.
 
 ---
 
@@ -102,7 +102,7 @@
 <details>
 <summary>📊 Click to view advanced metrics</summary>
 
-<img src="https://raw.githubusercontent.com/RamachandraBharadwaj/RamachandraBharadwaj/main/github-metrics.svg" />
+<img src="https://raw.githubusercontent.com/RamachandraBharadwaj/RamachandraBhardwaj/main/github-metrics.svg" />
 
 </details>
 
